@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarcísio Sampaio
 - 👀 I’m interested in AI with Python
-- 🌱 I’m currently learning Data Siencia
+- 🌱 I’m currently learning Data Sience
 - 📫 How to reach me? 
 >> Whatsapp: +55 45 9 8843-9709 or 41 9 9636-1285 
 
