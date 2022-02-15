@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tarcísio Sampaio
-- 👀 I’m interested in AI with Python, Web development htmlt, css and Javascript, SQL. 
+- 👀 I’m interested in AI with Python, Web development html, css and Javascript, SQL. 
 - 🌱 I’m currently learning all the knowledge needed for a good software architecture.
 - 📫 How to reach me? 
 >> Whatsapp: +55 41 9 9636-1285 
