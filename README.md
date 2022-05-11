@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tarcísio Sampaio
-- 👀 I’m interested in AI with Python, Web development html, css and Javascript, SQL. 
-- 🌱 I’m currently learning all the knowledge needed for a good software architecture.
+- 👋 Hi, I’m Tarcísio Sampaio and i'm from Brazil 🇧🇷
+- 👀 I’m interested in Web development html, css and Javascript.
+- 🌱 looking for an opportunity
 - 📫 How to reach me? 
 >> Whatsapp: +55 41 9 9636-1285 
 
