@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarcísio Henrique and i'm from Brazil 🇧🇷
-- 👀 I’m interested in Web development html, css and Javascript.
-- 🌱 looking for an opportunity
+- 🌱 I’m interested in Web development html, css and Javascript.
+- 👀 looking for an opportunity
 - 📫 How to reach me? 
 >> Whatsapp: +55 41 9 9636-1285 
 
