@@ -4,9 +4,9 @@
 - 📫 How to reach me? 
 >> Whatsapp: +55 41 9 9636-1285 
 
->> Email: tarcisiohenriquesampaiobarros@hotmail.com
+>> E-mail: tarcisiohenriquesampaiobarros@hotmail.com
 
->> LinkeDin: https://www.linkedin.com/in/tarcisio-sampaio-99704612b/
+>> Linkedin: https://www.linkedin.com/in/softwareengineer-tarcisiohenrique
 
 <!---
 Ciso-Barros/Ciso-Barros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
