@@ -2,7 +2,6 @@
 - 🌱 I’m interested in Web development html, css and Javascript.
 - 👀 looking for an opportunity
 - 📫 How to reach me? 
->> Whatsapp: +55 41 9 9636-1285 
 
 >> E-mail: tarcisiohenriquesampaiobarros@hotmail.com
 
