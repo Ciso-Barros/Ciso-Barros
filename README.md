@@ -7,6 +7,8 @@
 
 >> Linkedin: https://www.linkedin.com/in/softwareengineer-tarcisiohenrique
 
+>> https://ciso-barros.github.io/PersonalProfile/
+
 >> https://cursos.alura.com.br/emprega-one/profile/tarcisiohenriquesampaiobarros
 
 <!---
