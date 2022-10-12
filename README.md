@@ -9,7 +9,7 @@
 
 >> Portfólio com HTML e CSS: https://ciso-barros.github.io/PersonalProfile/
 
->> Cursos Concluídos na ALURA: https://cursos.alura.com.br/emprega-one/profile/tarcisiohenriquesampaiobarros
+>> Cursos ALURA: https://cursos.alura.com.br/emprega-one/profile/tarcisiohenriquesampaiobarros
 
 <!---
 Ciso-Barros/Ciso-Barros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
