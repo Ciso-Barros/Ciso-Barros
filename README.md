@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarcísio Henrique and i'm from Brazil 🇧🇷
-- 🌱 I’m interested in Web development html, css and Javascript.
-- 👀 looking for an opportunity
+- 🌱 Always studying.
+- 👀 Always open to our opportunities
 - 📫 How to reach me? 
 
 >> E-mail: tarcisiohenriquesampaiobarros@hotmail.com
