@@ -7,8 +7,6 @@
 
 >> Linkedin: https://www.linkedin.com/in/softwareengineer-tarcisiohenrique
 
->> Web Profile HTML - CSS: https://ciso-barros.github.io/PersonalProfile/
-
 >> Alguns Cursos da ALURA com bolsa da ORACLE: https://cursos.alura.com.br/emprega-one/profile/tarcisiohenriquesampaiobarros
 
 <!---
