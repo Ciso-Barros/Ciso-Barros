@@ -4,7 +4,6 @@
 
   Tarcísio Henrique - <strong>Densenvolvedor PHP Full-Stack</strong>.<br>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Desenvolvimento de Sistemas** na <a href="https://www.pucpr.br/">PUC-PR</a>.
 - 💼 Trabalhando como **Desenvolvedor PHP** na <a href="https://www.crvindustrial.com/">CRV Industrial</a>
 
