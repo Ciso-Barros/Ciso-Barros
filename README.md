@@ -34,7 +34,7 @@
 
 
 
-<h3>Aprendendo</h3>
+**Aprendendo**
 
  ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
  ![NODE](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
