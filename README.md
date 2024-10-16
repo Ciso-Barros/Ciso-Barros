@@ -4,8 +4,8 @@
 
   Tarcísio Henrique - <strong>Densenvolvedor PHP Full-Stack</strong>.<br>
 
-- 🎓 Estudando **Desenvolvimento de Sistemas** na <a href="https://www.pucpr.br/">PUC-PR</a>.
-- 💼 Trabalhando como **Desenvolvedor PHP** na <a href="https://www.crvindustrial.com/">CRV Industrial</a>
+- 🎓 Estudando **Desenvolvimento de Software** na <a href="https://www.pucpr.br/">PUC-PR</a>.
+- 💼 Trabalhando como **Desenvolvedor de software e Sustentação** na <a href="https://www.crvindustrial.com/](https://www.linkedin.com/company/fortrix-sistemas/posts/?feedView=all">Fortrix Sistemas e Tecnologia</a>
 
 <h3>Minhas Skills</h3>
 
