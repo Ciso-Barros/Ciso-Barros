@@ -6,7 +6,7 @@
 
 * 🎓 **Analista e Desenvolvedor de Sistemas** — formado pela <a href="https://www.pucpr.br/">PUC-PR</a>
 * 💼 **Desenvolvedor Full-Stack PHP**
-* 🚀 Experiência com desenvolvimento de aplicações web, integrações e sistemas corporativos
+* 🚀 Experiência com desenvolvimento de aplicações web, API / integrações e sistemas corporativos ERP
 * 📦 Experiência com sistemas de **logística, estoque, pedidos e expedição**
 * 🔌 Desenvolvimento e integração de **APIs e serviços**
 * 🧩 Manutenção e evolução de sistemas legados e aplicações de negócio
