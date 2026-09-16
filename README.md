@@ -53,11 +53,11 @@
 
 ## 💡 Sobre mim
 
-Gosto de transformar necessidades de negócio em soluções de software práticas e eficientes.
+Gosto de transformar necessidades de negócio em soluções de software.
 
 Minha experiência envolve desde a **manutenção e sustentação de sistemas existentes** até o desenvolvimento de novas funcionalidades, integrações e automações.
 
-Tenho especial interesse por **sistemas corporativos, logística, automação de processos, integração entre plataformas e análise de dados**, buscando sempre melhorar processos e reduzir tarefas manuais.
+Tenho especial interesse por **sistemas corporativos, logística, automação de processos, integração entre plataformas e análise de dados**.
 
 ## 📊 GitHub
 
