@@ -5,7 +5,7 @@
 **Desenvolvedor Full-Stack** com experiência em desenvolvimento, sustentação e evolução de sistemas.
 
 * 🎓 **Analista e Desenvolvedor de Sistemas** — formado pela <a href="https://www.pucpr.br/">PUC-PR</a>
-* 💼 **Desenvolvedor de Software e Sustentação**
+* 💼 **Desenvolvedor de Full-Stack PHP**
 * 🚀 Experiência com desenvolvimento de aplicações web, integrações e sistemas corporativos
 * 📦 Experiência com sistemas de **logística, estoque, pedidos e expedição**
 * 🔌 Desenvolvimento e integração de **APIs e serviços**
