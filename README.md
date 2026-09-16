@@ -4,7 +4,7 @@
 
   Tarcísio Henrique - <strong>Densenvolvedor Full-Stack</strong>.<br>
 
-- 🎓 Estudando **Desenvolvimento de Software** na <a href="https://www.pucpr.br/">PUC-PR</a>.
+- 🎓 **Analista e Desenvolvimento de Software** na <a href="https://www.pucpr.br/">PUC-PR</a>.
 - 💼 Trabalhando como **Desenvolvedor de software e Sustentação** 
 
 <h3>Minhas Skills</h3>
