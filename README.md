@@ -72,6 +72,20 @@ Desenvolvedor Full-Stack com experiência em **desenvolvimento, sustentação e 
 
 ---
 
+## Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ciso-Barros/Ciso-Barros/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ciso-Barros/Ciso-Barros/output/snake.svg" />
+  <img alt="Cobrinha comendo os quadradinhos do gráfico de contribuições" src="https://raw.githubusercontent.com/Ciso-Barros/Ciso-Barros/output/snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## Vamos conversar
 
 Sugestões, dúvidas ou oportunidades: me encontre no GitHub.
